@@ -7,5 +7,5 @@ metadata:
 description: prod
 requireApproval: true
 gke:
-  cluster: projects/containergke-439716/locations/us-central1-c/clusters/node2
+  cluster: projects/containergke-439716/locations/us-central1-a/clusters/node2
 
